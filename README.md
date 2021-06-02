@@ -211,12 +211,12 @@ We would like to invite participants to discussion about evaluation metrics, tak
 
 ### Downloads
 
-Data can be downloaded from Google Drive. Below is a list of file names along with a description of what they contain.
+Training data is provided in train/\*.tsv. Additional data can be downloaded from Google Drive. Below is a list of file names along with a description of what they contain.
 
-- poleval\_fa.train.tar.gz - archive contain forced-alignment of the original text together with the audio file
-- poleval\_text.train.tar.gz - archive contain original text in provided JSON format and CSV corresponding to audio files
-- poleval\_text.rest.tar.gz - archive contain original text in provided JSON format and CSV for which no audio files were provided
-- poleval\_wav.train.tar.gz - archive contain audio files
+- [poleval\_fa.train.tar.gz](https://drive.google.com/file/d/1PYfEhg-zGwnJ07HIaimlD3EgILPOBojq/view?usp=sharing) - archive contains forced-alignment of the original text together with the audio file
+- [poleval\_wav.train.tar.gz](https://drive.google.com/file/d/1b6MyyqgA9D1U7DX3Vtgda7f9ppkxjCXJ/view?usp=sharing) - archive contains training audio files
+- [poleval\_wav.validation.tar.gz](https://drive.google.com/file/d/1gwQRvrUtFqz3xGnmEN8znAzkBwC12Czu/view?usp=sharing) - archive contains test audio files
+- [poleval\_text.rest.tar.gz](https://drive.google.com/file/d/16MaKgexMtMhQL6sftMsS3H1pPjJqY_zx/view?usp=sharing) - archive contains additional text provided in JSON formatand CSV for which no audio files were provided (can be used for training purposes)
 
 ### References
 
