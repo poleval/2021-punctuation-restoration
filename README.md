@@ -191,12 +191,12 @@ The output to be evaluated is just the text with punctuation marks added.
 
 ### Metrics
 
-Final results are evaluated in terms of precision, recall, and F1 scores for predicting each punctuation mark separately. Submissions are compared with respect to the weighted average of F1 scores for each punctuation sign.
+Final results are evaluated in terms of precision, recall, and F1 scores for predicting each punctuation mark separately. Submissions are compared with respect to the weighted average of F1 scores for each punctuation mark.
 
 ##### Per-document score:
 ![](https://poleval.github.io/2021-punctuation-restoration/img/image003.png)
 
-##### Global score per punctuation sign _p_:
+##### Global score per punctuation mark _p_:
 ![](https://poleval.github.io/2021-punctuation-restoration/img/image005.png)
 
 Final scoring metric calculated as weighted average of global scores per
@@ -210,6 +210,8 @@ We would like to invite participants to discussion about evaluation metrics, tak
 - assigning different weights to different types of errors.
 
 ### Downloads
+
+Data has been published in the following repository: https://github.com/poleval/2021-punctuation-restoration
 
 Training data is provided in train/\*.tsv. Additional data can be downloaded from Google Drive. Below is a list of file names along with a description of what they contain.
 

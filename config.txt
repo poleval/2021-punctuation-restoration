@@ -1,1 +1,1 @@
---metric TokenAccuracy:c --precision 2  --in-header in-header.tsv  --out-header out-header.tsv
+--metric BIO-Weighted-F1:cs<[^\s,!\?\.:-]+><O>s<\S+,+><B-COMMA>s<\S+\.+><B-FULLSTOP>s<\S+\?+><B-QMARK>s<\S+!+><B-EXCL>s<\S+-+><B-HYPHEN>s<\S+:+><B-COLON>s<\S+:+><B-COLON>N<Weighted-F1> --precision 4 -%  --in-header in-header.tsv  --out-header out-header.tsv
