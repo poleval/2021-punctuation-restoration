@@ -211,7 +211,7 @@ We would like to invite participants to discussion about evaluation metrics, tak
 
 ### Video introduction
 
-<p style="text-align: center;"><iframe src="https://www.youtube.com/embed/yEh-RiFGN94" frameborder="0" width="560" height="315"></iframe></p>
+[![Video instruction](http://img.youtube.com/vi/yEh-RiFGN94/0.jpg)](http://www.youtube.com/watch?v=yEh-RiFGN94 "Video instruction")
 
 ### Downloads
 
