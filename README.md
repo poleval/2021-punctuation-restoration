@@ -209,6 +209,10 @@ We would like to invite participants to discussion about evaluation metrics, tak
 - impact of only slight displacement of punctuation,
 - assigning different weights to different types of errors.
 
+### Video introduction
+
+<p style="text-align: center;"><iframe src="https://www.youtube.com/embed/yEh-RiFGN94" frameborder="0" width="560" height="315"></iframe></p>
+
 ### Downloads
 
 Data has been published in the following repository: https://github.com/poleval/2021-punctuation-restoration
