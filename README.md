@@ -185,6 +185,8 @@ During the task the following punctuation marks will be evaluated:
 | ellipsis | ... |
 | blank (no punctuation) | |
 
+Note that semi-colon (`;`) is disregarded here.
+
 ### Submission format
 
 The output to be evaluated is just the text with punctuation marks added.
