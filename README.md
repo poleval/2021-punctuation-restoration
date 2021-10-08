@@ -226,6 +226,11 @@ Training data is provided in train/\*.tsv. Additional data can be downloaded fro
 - [poleval\_wav.validation.tar.gz](https://drive.google.com/file/d/1gwQRvrUtFqz3xGnmEN8znAzkBwC12Czu/view?usp=sharing) - archive contains test audio files
 - [poleval\_text.rest.tar.gz](https://drive.google.com/file/d/10SdpLHPLXVfhJsq1okgC5fcxbFzCGoR5/view?usp=sharing) - archive contains additional text provided in JSON formatand CSV for which no audio files were provided (can be used for training purposes)
 
+### Challenge stage
+
+The competition in September 2021. Now the challenge is in the after-competition stage. You can submit solutions,
+but they will be marked with a different color.
+
 ### References
 
 1. Yi, J., Tao, J., Bai, Y., Tian, Z., &amp; Fan, C. (2020). Adversarial transfer learning for punctuation restoration. _arXiv preprint arXiv:2004.00248_.
