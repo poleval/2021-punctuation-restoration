@@ -231,6 +231,10 @@ Training data is provided in train/\*.tsv. Additional data can be downloaded fro
 The competition in September 2021. Now the challenge is in the after-competition stage. You can submit solutions,
 but they will be marked with a different color.
 
+### Metadata
+
+Tags: poleval-2021, asr
+
 ### References
 
 1. Yi, J., Tao, J., Bai, Y., Tian, Z., &amp; Fan, C. (2020). Adversarial transfer learning for punctuation restoration. _arXiv preprint arXiv:2004.00248_.
